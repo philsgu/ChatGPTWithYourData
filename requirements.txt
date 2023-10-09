@@ -4,7 +4,7 @@ openai
 chromadb <= 0.3.29
 tiktoken
 pypdf
-unstructured[all-docs]
+unstructured
 pdfminer
 poppler-utils
 pytube
